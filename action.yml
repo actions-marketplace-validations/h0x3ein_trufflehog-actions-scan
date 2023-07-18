@@ -1,6 +1,6 @@
-name: 'Trufflehog Actions Scan'
+name: 'Trufflehog Actions Scan ja'
 description: 'Scan repository for secrets with basic trufflehog defaults in place for easy setup.'
-author: 'Ed Plato'
+author: 'ja'
 runs:
   using: 'docker'
   image: 'Dockerfile'
